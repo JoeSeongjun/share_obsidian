@@ -1,0 +1,11 @@
+# Obsidian: 기기마다 다른 창 상태/캐시는 동기화하지 않음
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+.trash/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
